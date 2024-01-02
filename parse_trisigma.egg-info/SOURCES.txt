@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+parse_trisigma/__init__.py
+parse_trisigma/parser.py
+parse_trisigma/utils.py
+parse_trisigma.egg-info/PKG-INFO
+parse_trisigma.egg-info/SOURCES.txt
+parse_trisigma.egg-info/dependency_links.txt
+parse_trisigma.egg-info/requires.txt
+parse_trisigma.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+camelot-py
+opencv-python
+ghostscript
+pandas
+numpy
+geopandas
+shapely
+matplotlib
